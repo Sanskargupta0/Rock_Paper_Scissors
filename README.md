@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-This is a simple web-based Rock, Paper, Scissors game created using HTML, CSS, and JavaScript.
+This simple web-based Rock, Paper, Scissors game was created using HTML, CSS, and JavaScript.
 
 ## How to Play
 
@@ -12,7 +12,7 @@ This is a simple web-based Rock, Paper, Scissors game created using HTML, CSS, a
 
 4. The result of the round (win, lose, or tie) will be displayed on the screen.
 
-5. Also you can see your win strick!
+5. Also you can see your win streak!
 
 6. Keep playing to see if you can beat the computer!
 
@@ -33,7 +33,7 @@ This is a simple web-based Rock, Paper, Scissors game created using HTML, CSS, a
 
 ## Demo
 
-You can play the game live here: [Demo Link](#)
+You can play the game live here: [Demo Link](https://sanskargupta0.github.io/Rock_Paper_Scissors/)
 
 ## Screenshots
 
@@ -45,5 +45,5 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-  https://github.com/Sanskargupta0/Rock_Paper_Scissors.git
+```bash
+https://github.com/Sanskargupta0/Rock_Paper_Scissors.git
